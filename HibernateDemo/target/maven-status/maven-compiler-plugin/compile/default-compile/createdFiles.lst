@@ -1,0 +1,6 @@
+com\lqm\repositories\impl\CategoryRepositoryImpl.class
+com\lqm\repositories\impl\ProductRepositoryImpl.class
+com\lqm\pojo\Category.class
+com\lqm\hibernatedemo\HibernateUtils.class
+com\lqm\pojo\Product.class
+com\lqm\hibernatedemo\HibernateDemo.class
